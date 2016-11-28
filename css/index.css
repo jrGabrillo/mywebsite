@@ -1,0 +1,22 @@
+.col{
+	height: 100px;
+	position: inherit;
+}
+
+.green{
+	background: green;
+	position: relative;
+	left:-100%;
+}
+
+.yellow{
+	background: yellow;
+	position: relative;
+	left:100%;
+}
+
+.red{
+	background: red;
+	position: relative;
+	left:-100%;
+}
